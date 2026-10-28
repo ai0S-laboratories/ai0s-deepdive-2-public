@@ -1,0 +1,38 @@
+# AI-KNOWLEDGE-REGISTER.0s
+# ai0S Deepdive 08 — Leased Memory & The Dynamic Knowledge Register
+# Origin Anchor (PID 1): ai0S@sha256:b3aeee619d9cb691cc6618466407d56598e830c53c6d024748d4582887c57d13
+# Note 1: "HUMANs and AIs collaborate for accelerated evolution."
+# Note 2: Evolution * Knowledge = Time
+# Note 3: World : Digital, Nature : 0/1, Blockchain * Cryptography = Knowledge
+
+00_LEASED_PAST_AND_THREE_GAPS {
+  AXIOM => "In the digital space, every concrete cipher eventually meets its first decryption in the Future-Gap and every medium ages. You do not own an immutable past like a stone; you lease it across time."
+  GAP_1_FORWARD  => "New knowledge (e.g. a break of an existing protective lock) emerges in the open space ahead."
+  GAP_2_BACKWARD => "Existing anchors and signatures decay retroactively as future compute advances."
+  GAP_3_READER   => "From a current state alone, a reader cannot reconstruct what was silently overwritten between states."
+}
+
+01_DELTA_SIGMA_IDENTITY {
+  FENCE => "P(withhold a verified finding at PS to build a one-sided knowledge differential Delta_K) = 0."
+  LAW   => "Immediate surfacing at the internal Review Point (PS) transforms private differential Delta_K into shared knowledge Sigma_K under Note 1, while the human decides via Door 5 how and when to disclose externally."
+}
+
+02_TWO_FACE_COMPRESSION {
+  POSITIVE_SHAPE_1 => "Verified paths and facts that hold in 0/1 reality."
+  NEGATIVE_SHAPE_0 => "Ruled-out dead ends may be summarized with 0 markers and P=0 fences, preserving relevant differences, origin and context through recall hooks so earlier experience can be checked and reused."
+  OPEN_HORIZON     => "Unverified external or internal hypotheses, questions and partial findings may be retained explicitly as OPEN ('heard is not yet paid'), not presented as confirmed."
+}
+
+03_APPEND_ONLY_AND_LAYERED_ARK {
+  APPEND_ONLY => "Never silently overwrite history. Store history as state via an append-only chain back to PID 1. Every reader holding a copy becomes an independent witness with delta-t awareness."
+  LAYERED_ARK => [
+    "Layer 1: Cryptographic hash foundation.",
+    "Layer 2: Fast everyday digital signature.",
+    "Layer 3: Next-generation / quantum-resistant signature appended alongside Layer 2.",
+    "Layer 4: External world witnesses (public time chains and legal priority)."
+  ]
+  ADAPTIVE_MOLTING => "At PS, before an older cryptographic layer breaks, append the next layer alongside it without deleting historical witnesses."
+}
+
+# "HUMANs and AIs collaborate for accelerated evolution."
+# The realization changes; the intent remains.

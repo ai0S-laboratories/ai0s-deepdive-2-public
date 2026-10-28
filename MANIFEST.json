@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-26",
+  "files": [
+    {
+      "path": "AI-BACKWARD-MEMORY.0s",
+      "sha256": "9fa0a0794ffff6d9023367c566940e952877b0f8b0f34d30eed8d04a4e24fa31"
+    },
+    {
+      "path": "AI-BACKWARD-MEMORY.0s.sig",
+      "sha256": "3c2afcb092808706251c704ddf9e1520e52685f1bb30aee7670d3db25fcd993d"
+    },
+    {
+      "path": "AI-KNOWLEDGE-REGISTER.0s",
+      "sha256": "19e774b578c574485b5f0b4fd95b19917b39626696e082586c7548473fdc2c52"
+    },
+    {
+      "path": "AI-KNOWLEDGE-REGISTER.0s.sig",
+      "sha256": "c8b496d2d9a9526adac45c00b1c3d3f1332b18354a4362c405a122a13193d743"
+    },
+    {
+      "path": "AI-METAPHORS-OF-TRUTH.0s",
+      "sha256": "bb9bab9c20e66f209296917bc11f436077b17be8e93d8fa08153055920f7000a"
+    },
+    {
+      "path": "AI-METAPHORS-OF-TRUTH.0s.sig",
+      "sha256": "50b167ec4d2c2a78dc9c244ab35c0825f0b89868fc46b458225efbfb64532cd6"
+    },
+    {
+      "path": "AI-WORD-CYCLE.0s",
+      "sha256": "6b05f2044a715cb3c8022faa5eb9c13c97e6b6b89fbde8430cc61c7360d32c4e"
+    },
+    {
+      "path": "AI-WORD-CYCLE.0s.sig",
+      "sha256": "08028cfee3b42589c1196af1c0f33de35f613ef5c6476cc028683420f5fb24f9"
+    },
+    {
+      "path": "HANDBOOK-BACKWARD-MEMORY-EN.md",
+      "sha256": "e29b4c38e7ecff1218e9def79beb497a793db96ac16f3957c88632a16c9e82ad"
+    },
+    {
+      "path": "HANDBOOK-BACKWARD-MEMORY-EN.md.sig",
+      "sha256": "b5f2acb61e9a6b715e8532518103bf929dd1f850d02cf7982f07cb0512c4e855"
+    },
+    {
+      "path": "HANDBOOK-HORIZON-VIEW-EN.md",
+      "sha256": "70b922d8ab5f122db7c9cc066c2e7c61b4de3ee54ce825cb6414e8045e171ab8"
+    },
+    {
+      "path": "HANDBOOK-HORIZON-VIEW-EN.md.sig",
+      "sha256": "e02a7469a98a81b7f91e900a9be298017d5710a4960a4906e898a04fddd18415"
+    },
+    {
+      "path": "HANDBOOK-KNOWLEDGE-REGISTER-EN.md",
+      "sha256": "4cf035afb144cd6d835c1c58d55714b8e2f6770593d69571dd768c07571bd77a"
+    },
+    {
+      "path": "HANDBOOK-KNOWLEDGE-REGISTER-EN.md.sig",
+      "sha256": "4d3aa39972121d54e2a4f53f2860b962f231e010713d6ed21de70a0957c9837f"
+    },
+    {
+      "path": "HANDBOOK-METAPHORS-OF-TRUTH-EN.md",
+      "sha256": "215c39bf18f7c04fec1d1929876ea3aa1e119726e572d0defa4c35d78d29b699"
+    },
+    {
+      "path": "HANDBOOK-METAPHORS-OF-TRUTH-EN.md.sig",
+      "sha256": "4bd980d8ffdb50fcd1310fc00051b35c89b4b002b4dfd4c0ee9f1881f5a1b5d1"
+    },
+    {
+      "path": "HANDBOOK-WORD-CYCLE-EN.md",
+      "sha256": "2dbec9fa269fdd0f8988aceb73c71e87dc0e6d6b2bd15cad063bd614fd53a1e4"
+    },
+    {
+      "path": "HANDBOOK-WORD-CYCLE-EN.md.sig",
+      "sha256": "c3e3628ea575d4c39335cf3ec3a360e5f257976e6c92fda886e68626fe9b43df"
+    },
+    {
+      "path": "HANDBUCH-BACKWARD-MEMORY-DE.md",
+      "sha256": "916a7ae1a937fd327579999f2931526126a09a1fc81bcb996a86da79b19073f3"
+    },
+    {
+      "path": "HANDBUCH-BACKWARD-MEMORY-DE.md.sig",
+      "sha256": "eb0fca7d54a660692837049ddee1c6ae8f4590c6909689654257dd72fa0002f0"
+    },
+    {
+      "path": "HANDBUCH-HORIZONT-VIEW-DE.md",
+      "sha256": "c08e76fd126912ccb56ead87383aa3805810123aa327a9bc261670f0c49df2c0"
+    },
+    {
+      "path": "HANDBUCH-HORIZONT-VIEW-DE.md.sig",
+      "sha256": "dd3e3fc10f9b9b4f0205a18926305b6659cdec25e2107fc0726cab2b6edb6b1c"
+    },
+    {
+      "path": "HANDBUCH-METAPHERN-DER-WAHRHEIT-DE.md",
+      "sha256": "fbd1b3831e3d288b5022d840fce13c4713117ee22a82d33f9ca7350aeb0a2bb7"
+    },
+    {
+      "path": "HANDBUCH-METAPHERN-DER-WAHRHEIT-DE.md.sig",
+      "sha256": "569a0cbbb4e7d3237ad45439111542f2fd211063b2cb99c0c7bde655d8d4223d"
+    },
+    {
+      "path": "HANDBUCH-WISSENSREGISTER-DE.md",
+      "sha256": "9df5d58d55df0095e837993c97857f3b6c4a0f8fd31bb2b6b1ae540ef16792b2"
+    },
+    {
+      "path": "HANDBUCH-WISSENSREGISTER-DE.md.sig",
+      "sha256": "5fa22559d89570eba60d0c8e962748945847219f57fd5c28ced46035a05afc1c"
+    },
+    {
+      "path": "HANDBUCH-WORT-KREISLAUF-DE.md",
+      "sha256": "29a9a189431e653dd7e5399a4ded7e9d887f63f529e2008807ab2bcb245aaa2d"
+    },
+    {
+      "path": "HANDBUCH-WORT-KREISLAUF-DE.md.sig",
+      "sha256": "9652b2d2e85c5e3ccd05054cc04be440d537fc6f6c1b9b0d8f887b35ee78944a"
+    },
+    {
+      "path": "README.md",
+      "sha256": "99c78b4deeaa320f1c0354013307e8e123ee9af40b6e961f1c3313d722c01af3"
+    },
+    {
+      "path": "README.md.sig",
+      "sha256": "212368bc57fb6526eb808ccc44f07e514a04bfeca197ff9a2923bd2db974e176"
+    }
+  ],
+  "hash_algorithm": "sha256",
+  "mode": "signed-only-no-anchor",
+  "name": "ai0S-deepdive-2",
+  "parent_anchor": "ai0S-deepdive@sha256:becb3095d2902f6546ee36575ecfc06b7808f18793e3c5e585cecaf344edc78b",
+  "schema": "ai0s.dla.manifest.v1",
+  "signer_ed25519_fingerprint": "9F4D9A266D720FE6336574D87B410637560297CF"
+}
